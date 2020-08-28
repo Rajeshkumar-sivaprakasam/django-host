@@ -1,1 +1,1 @@
-web: gunicorn corey.wsgi --log-file -
+web: gunicorn coary.wsgi --log-file -
